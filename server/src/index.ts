@@ -10,7 +10,7 @@ const port = process.env.PORT || 3002;
 app.use(express.json());
 app.use(cors());
 
-const mongoURI: string = "mongodb+srv://maravindh010:xHBvcOMteNC8t7Aq@personalfinancetracker.byjda.mongodb.net/";
+const mongoURI: string = "MONGO_URI=mongodb+srv://new_user:new_password@yourcluster.mongodb.net/";
 
 mongoose.connect(mongoURI).then(() => console.log("CONNNECTED TO MONGODB!")).catch((err) => console.error("Failed to Connect to MongoDB:",err));
 
