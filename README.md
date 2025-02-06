@@ -39,6 +39,8 @@ The **Financial Tracker Dashboard** is a web application designed to help users 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ---
+## ⚖️ License
+This project is licensed under the MIT License.
 
 ### 🔥 **Let me know if you need modifications!** 🚀
 
