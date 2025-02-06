@@ -34,3 +34,13 @@ The **Financial Tracker Dashboard** is a web application designed to help users 
 
 ---
 
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+---
+
+### 🔥 **Let me know if you need modifications!** 🚀
+
+
+
